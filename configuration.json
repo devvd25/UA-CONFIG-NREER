@@ -1,14 +1,21 @@
 {
   "blacklist": [],
+
   "custom": {
+    "*://nreer.com/*": "Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
     "*://*.nreer.com/*": "Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
   },
+
   "customMode": {
+    "*://nreer.com/*": "Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
     "*://*.nreer.com/*": "Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
   },
+
   "last-update": 1761875423082,
   "mode": "custom",
+
   "parser": {},
+
   "popular-browsers": [
     "Mobile Chrome"
   ],
@@ -18,6 +25,7 @@
   "popup-browser": "Android Browser",
   "popup-os": "Android",
   "popup-sort": "ascending",
+
   "protected": [
     "google.com/recaptcha",
     "gstatic.com/recaptcha",
@@ -26,10 +34,14 @@
     "gitlab.com/users/sign_in",
     "challenges.cloudflare.com"
   ],
+
   "remote-address": "",
+
   "user-styling": "",
   "userAgentData": false,
+
   "whitelist": [],
+
   "json-guid": "04c75259-974f-4657-adcf-0473830d3000",
   "json-forced": false
 }
